@@ -1,2 +1,2 @@
 # Learning
-Learning basics of gthub
+Learning basics of git hub and git
